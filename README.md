@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabab Qasim</h1>
 <h3 align="center">"Bridging creativity and technology through front-end wizardry"</h3>
-<img align="right" width="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" width="355" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabab003&label=Profile%20views&color=0e75b6&style=flat" alt="rabab003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ofwman" target="blank"><img src="https://img.shields.io/twitter/follow/ofwman?logo=twitter&style=for-the-badge" alt="ofwman" /></a> </p>
